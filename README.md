@@ -1,1 +1,3 @@
 # Ekobits
+
+## Documentation of Progress
